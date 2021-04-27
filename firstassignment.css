@@ -1,0 +1,29 @@
+.body {
+    padding: 10px 0 10px 0;
+    background-image: url(image/background.jpg);
+    background-size: cover;
+    color: white;
+    
+}
+
+
+
+.header-left {
+    padding: 5px;
+}
+
+span {
+    font-family:'Segoe UI';
+    font-size: 500%;
+}
+
+.foto {
+    padding: 5px;
+}
+
+textarea {
+    border-radius: 5px;
+    width: 250px;
+    height: 75px;
+    opacity: 0.5;
+}
